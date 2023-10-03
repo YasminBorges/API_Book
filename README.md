@@ -1,2 +1,2 @@
 # API_Book
-API elaborada em sala
+API elaborada em sala de aula, para a matéria Técnicas Avançadas de Programação
